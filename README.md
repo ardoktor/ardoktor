@@ -7,6 +7,7 @@
 [![Firebase](https://img.shields.io/badge/-Firebase-FFA028?style=flat-square&logo=firebase)](https://firebase.google.com/)
 [![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 [![LangChain](https://img.shields.io/badge/-LangChain-00A67E?style=flat-square&logo=OpenAI&logoColor=white)](https://www.langchain.dev/)
+[![flutter](https://img.shields.io/badge/-flutter-00A67E?style=flat-square&logo=OpenAI&logoColor=white)](https://www.langchain.dev/)
 
 ---
 
